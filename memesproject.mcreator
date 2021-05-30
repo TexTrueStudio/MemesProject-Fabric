@@ -105,6 +105,7 @@
     "license": "MIT License",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
+    "modPicture": "logofabric",
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],
