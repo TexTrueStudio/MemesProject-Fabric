@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "memesproject:blocks/stone_ore",
+    "up": "memesproject:blocks/stone_ore",
+    "north": "memesproject:blocks/stone_ore",
+    "east": "memesproject:blocks/stone_ore",
+    "south": "memesproject:blocks/stone_ore",
+    "west": "memesproject:blocks/stone_ore",
+    "particle": "memesproject:blocks/stone_ore"
+  }
+}

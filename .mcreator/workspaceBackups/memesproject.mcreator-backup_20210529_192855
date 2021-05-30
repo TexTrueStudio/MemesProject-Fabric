@@ -1,0 +1,54 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "StoneIngot",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_ingot"
+    },
+    {
+      "name": "StoneNugget",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_nugget"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.memesproject.stone_ingot": "Stone Ingot",
+      "item.memesproject.stone_nugget": "Stone Nugget"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "memesproject",
+    "modName": "MemesProject-Fabric",
+    "version": "1.0.0",
+    "author": "Administrator, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.memesproject",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

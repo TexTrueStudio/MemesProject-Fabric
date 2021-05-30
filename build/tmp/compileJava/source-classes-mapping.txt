@@ -1,0 +1,16 @@
+net/texstudio/memesproject/IListener.java
+ net.texstudio.memesproject.IListener
+net/texstudio/memesproject/item/StoneNuggetItem.java
+ net.texstudio.memesproject.item.StoneNuggetItem
+net/texstudio/memesproject/item/StoneIngotItem.java
+ net.texstudio.memesproject.item.StoneIngotItem
+net/texstudio/memesproject/item/StonePlateItem.java
+ net.texstudio.memesproject.item.StonePlateItem
+net/texstudio/memesproject/block/StoneOreBlock.java
+ net.texstudio.memesproject.block.StoneOreBlock
+net/texstudio/memesproject/block/StoneBlockBlock.java
+ net.texstudio.memesproject.block.StoneBlockBlock
+net/texstudio/memesproject/ClientInit.java
+ net.texstudio.memesproject.ClientInit
+net/texstudio/memesproject/MemesprojectMod.java
+ net.texstudio.memesproject.MemesprojectMod

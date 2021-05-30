@@ -1,0 +1,42 @@
+{
+  "group": "memesproject",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "memesproject:stone_nugget"
+    },
+    "1": {
+      "item": "memesproject:stone_nugget"
+    },
+    "2": {
+      "item": "memesproject:stone_nugget"
+    },
+    "3": {
+      "item": "memesproject:stone_nugget"
+    },
+    "4": {
+      "item": "memesproject:stone_nugget"
+    },
+    "5": {
+      "item": "memesproject:stone_nugget"
+    },
+    "6": {
+      "item": "memesproject:stone_nugget"
+    },
+    "7": {
+      "item": "memesproject:stone_nugget"
+    },
+    "8": {
+      "item": "memesproject:stone_nugget"
+    }
+  },
+  "result": {
+    "item": "memesproject:stone_ingot",
+    "count": 3
+  }
+}

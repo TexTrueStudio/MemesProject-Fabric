@@ -1,0 +1,90 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "StoneIngot",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_ingot"
+    },
+    {
+      "name": "StoneNugget",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_nugget"
+    },
+    {
+      "name": "StonePlate",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_plate"
+    },
+    {
+      "name": "StoneOre",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_ore"
+    },
+    {
+      "name": "StoneBlock",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_block"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.memesproject.stone_ingot": "Stone Ingot",
+      "block.memesproject.stone_block": "Stone Block",
+      "block.memesproject.stone_ore": "Stone Ore",
+      "item.memesproject.stone_nugget": "Stone Nugget",
+      "item.memesproject.stone_plate": "Stone Plate"
+    },
+    "zh_cn": {
+      "item.memesproject.stone_ingot": "Ê¯Á£¶§",
+      "block.memesproject.stone_block": "Ê¯Á£¿é",
+      "block.memesproject.stone_ore": "Ê¯Á£¿ó",
+      "item.memesproject.stone_nugget": "Ê¯Á£",
+      "item.memesproject.stone_plate": "Ê¯Á£°å"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "memesproject",
+    "modName": "MemesProject-Fabric",
+    "version": "0.0.1(A1)",
+    "author": "TexStudio(TexTrueStudio)",
+    "license": "MIT License",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.16.5",
+    "credits": "Created using mod maker MCreator",
+    "modElementsPackage": "net.texstudio.memesproject",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}
