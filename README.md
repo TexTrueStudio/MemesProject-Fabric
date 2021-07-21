@@ -1,4 +1,7 @@
-# MemesProject-Fabric ![MemesProject-Fabric](https://images.gitee.com/uploads/images/2021/0530/124442_f5473a65_7560351.png "MemesProject-Fabric")
+# MemesProject-Fabric
+
+由于暂时无法正常访问Github，下载等请转到[Gitee](https://gitee.com/tex-true-studio/MemesProjectDisc-Forge)。 
+[Because we can't access GitHub, please go to [gitee](https://gitee.com/tex-true-studio/MemesProjectDisc-Forge).]
 
 ![Gitee](https://images.gitee.com/uploads/images/2021/0530/134116_db958539_7560351.png "Gitee")
 [![MemesProject-Forge](https://images.gitee.com/uploads/images/2021/0530/123027_1f7285d4_7560351.png "MemesProject-Forge")](https://gitee.com/tex-true-studio/MemesProject-Forge)
